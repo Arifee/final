@@ -1,5 +1,3 @@
-
-#!/usr/bin/env bash
-
+#!/bin/bash 
 sudo killall java
 exit 0
